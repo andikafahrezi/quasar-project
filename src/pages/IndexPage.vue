@@ -85,6 +85,12 @@
 const skills = [
   'Figma',
   'UI/UX Design',
+  'Figma Wireframing',
+  'Figma Design Systems',
+  'Figma Auto Layout',
+  'Figma Prototyping',
+  'Figma Components',
+  'Figma Properties',
   'HTML',
   'CSS',
   'JavaScript',
@@ -106,7 +112,12 @@ const projects = [
   {
     nama: 'Smart Mannequin',
     kategori: 'IoT Smart System Research',
-    deskripsi: 'Prototipe dummy manekin dengan sensor untuk mengukur keergonomisan kendaraan tempur berbasis IoT'
+    deskripsi: 'Prototipe dummy manekin dengan sensor untuk mengukur keergonomisan kendaraan tempur berbasis IoT.'
+  },
+  {
+    nama: 'VR Research Product Overview',
+    kategori: 'UI/UX Design',
+    deskripsi: 'Virtual interface app yang dirancang untuk memamerkan berbagai inovasi penelitian melalui narasi yang imersif.'
   }
 ]
 </script>

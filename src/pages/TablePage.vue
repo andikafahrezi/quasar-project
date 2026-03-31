@@ -85,10 +85,10 @@
         <q-card style="min-width: 400px; border-radius: 16px;">
 
           <q-card-section style="padding: 32px 32px 24px;">
-            <div style="font-size: 11px; letter-spacing: 0.12em; color: #6B6B6B; text-transform: uppercase; margin-bottom: 16px;">
+            <div style="font-family: 'Geist Mono', sans-serif; font-size: 11px; letter-spacing: 0.12em; color: #6B6B6B; text-transform: uppercase; margin-bottom: 16px;">
               Detail karyawan
             </div>
-            <div style="font-family: 'DM Serif Display', serif; font-size: 28px;">
+            <div style="font-family: 'Plus Jakarta Sans', sans-serif; font-size: 28px; font-weight: 500;">
               {{ karyawanDipilih.nama }}
             </div>
           </q-card-section>
@@ -101,7 +101,7 @@
               :key="item.label"
               style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;"
             >
-              <div style="font-size: 12px; letter-spacing: 0.08em; color: #6B6B6B; text-transform: uppercase;">
+              <div style="font-family: 'Geist Mono', sans-serif;font-size: 12px; letter-spacing: 0.08em; color: #6B6B6B; text-transform: uppercase;">
                 {{ item.label }}
               </div>
               <div style="font-size: 14px; color: #2D2D2D; font-weight: 500;">
