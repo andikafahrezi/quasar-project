@@ -11,7 +11,7 @@
           Halo, Aku Andika 👋
         </h1>
         <p style="font-family: 'Geist Mono', sans-serif; font-size: 16px; line-height: 1.7; color: #6b6b6b; margin: 0 0 32px;">
-          Sedang belajar Frontend Development. Saat ini magang dari program MagangHub Kemenaker.
+          Sedang belajar Frontend Development dengan Quasar Framework. Saat ini magang dari program MagangHub Kemenaker.
         </p>
         <div style="display: flex; gap: 12px;">
           <q-btn
